@@ -64,13 +64,43 @@
     "employees": [
         {
             "id": 1,
-            "name": "Tom Schamberger",
+            "name": "Betty White",
             "specialty": "iPhone"
         },
         {
             "id": 2,
             "name": "Rose Schmitt",
-            "specialty": "Printers"
+            "specialty": "printers"
+        },
+        {
+            "id": 3,
+            "name": "Jeff Goldblum",
+            "specialty": "tablets"
+        },
+        {
+            "id": 4,
+            "name": "Bob Saget",
+            "specialty": "Andriod"
+        },
+        {
+            "id": 5,
+            "name": "Mia Moore",
+            "specialty": "iPhone"
+        },
+        {
+            "id": 6,
+            "name": "Kim Kursten",
+            "specialty": "tablets"
+        },
+        {
+            "id": 7,
+            "name": "Thomas Silver",
+            "specialty": "andriod"
+        },
+        {
+            "id": 8,
+            "name": "Johnney Depp",
+            "specialty": "printers"
         }
     ],
     "serviceTickets": [
